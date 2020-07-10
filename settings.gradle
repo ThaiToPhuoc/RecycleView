@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Đe2_SimpleWidget_RecycleView"
